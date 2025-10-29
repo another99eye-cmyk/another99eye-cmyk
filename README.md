@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi there! I'm a passionate Frontend Developer specializing in creating dynamic and responsive web applications. 
+💻 Tech Stack:
 
-<!--
-**another99eye-cmyk/another99eye-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages: HTML, CSS, JavaScript, Python  
 
-Here are some ideas to get you started:
+Frameworks: ReactJS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: VSCode, Canva, Photoshop, Figma
+
+
+🌟 I love bringing ideas to life with clean and efficient code. Always eager to learn new technologies and improve my skills. 
+📚 Currently exploring the intersection of technology and psychology, and how user experience can be enhanced through design.
+🏃‍♂️ When I’m not coding, you can find me practicing parkour or diving into the latest psychology insights.
+🚀 Let's connect and collaborate! 
+
+Feel free to tweak any part of it or let me know if you'd like any changes!
