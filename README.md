@@ -1,11 +1,11 @@
-👋 Hi there! I'm a passionate Frontend Developer specializing in creating dynamic and responsive web applications. 
+👋 Hi there! I'm a passionate Frontend Developer specializing in creating dynamic and responsive applications. 
 💻 Tech Stack:
 
-Languages: HTML, CSS, JavaScript, Python  
+Languages: HTML, CSS, JavaScript, Python, React
 
 Frameworks: ReactJS  
 
-Tools: VSCode, Canva, Photoshop, Figma
+Tools: VSCodium, Canva, Photoshop, Figma etc.
 
 
 🌟 I love bringing ideas to life with clean and efficient code. Always eager to learn new technologies and improve my skills. 
