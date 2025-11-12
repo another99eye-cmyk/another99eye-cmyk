@@ -1,12 +1,23 @@
 👋 Hi there! I'm a passionate Frontend Developer specializing in creating dynamic and responsive applications. 
 💻 Tech Stack:
 
-Languages: HTML, CSS, JavaScript, Python, React
+**Languages:** JavaScript | Python | HTML | CSS  
+**Frameworks:** React | Node.js | Tailwind | Express  
+**Tools:** Git | VS Code | Figma | Canva 
+**Cloud Platforms**: Netlify | Google Cloud | Other AI tools | Formpree
 
-Frameworks: ReactJS  
+### Currently Working On:
+Building a personal website with **[React, Node.js, etc.]**
+Learning more about **[React, Electron, Godot.]**
 
-Tools: VSCodium, Canva, Photoshop, Figma etc.
+## Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=another99eyecmyk&theme=dark&background=1C1C1C)
 
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=another99eyecmyk&theme=dark&layout=compact)
+
+## Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=another99eyecmyk&show_icons=true&hide_title=true&theme=dark&border_radius=10)
 
 🌟 I love bringing ideas to life with clean and efficient code. Always eager to learn new technologies and improve my skills. 
 📚 Currently exploring the intersection of technology and psychology, and how user experience can be enhanced through design.
@@ -14,3 +25,6 @@ Tools: VSCodium, Canva, Photoshop, Figma etc.
 🚀 Let's connect and collaborate! 
 
 Feel free to tweak any part of it or let me know if you'd like any changes!
+
+## Get In Touch
+**Email**: another99eye@gmail.com
