@@ -3,7 +3,7 @@
 
 **Languages:** JavaScript | Python | HTML | CSS  
 **Frameworks:** React | Node.js | Tailwind | Express  
-**Tools:** Git | VS Code | Figma | Canva 
+**Tools:** Git | VS Code | Figma | Canva  
 **Cloud Platforms**: Netlify | Google Cloud | Other AI tools | Formpree
 
 ### Currently Working On:
