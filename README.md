@@ -24,7 +24,6 @@ Learning more about **[React, Electron, Godot.]**
 🏃‍♂️ When I’m not coding, you can find me practicing parkour or diving into the latest psychology insights.
 🚀 Let's connect and collaborate! 
 
-Feel free to tweak any part of it or let me know if you'd like any changes!
 
 ## Get In Touch
 **Email**: another99eye@gmail.com
