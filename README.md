@@ -14,6 +14,7 @@ Learning more about **[React, Electron, Godot.]**
 ![GitHub Streak](streak-stats.demolab.com)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=another99eye-cmyk&theme=dark&background=1C1C1C)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=another99eye-cmyk)](https://github.com/another99eye-cmyk/github-readme-stats)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=another99eye-cmyk&theme=dark&layout=compact)
